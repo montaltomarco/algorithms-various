@@ -1,4 +1,4 @@
-# algos-various-languages
+# algorithms-various
 This repository contains the implementations in different languages of various useful algorithms. Please enjoy!
 Send a message if you find any problem or just want to get in touch :)
 
